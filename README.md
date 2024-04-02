@@ -15,8 +15,8 @@ Este repositorio contiene un analizador de tokens escrito en Flex que toma un ar
    - Configura la variable de entorno HOME para apuntar al directorio donde tendrás los archivos de desarrollo. Por ejemplo, `C:\Compilador`. En el se guardaran los ficheros .plex
 
 2. **Compilación del programa:**
-      - Para abrir la terminal vamos al directorio `C:\MinGW\msys\1.0\` y se ejecuta el archivo msys.bat
-      - Ejecuta el siguiente comando en la terminal para compilar el analizador Lex:
+   - Para abrir la terminal vamos al directorio `C:\MinGW\msys\1.0\` y se ejecuta el archivo msys.bat
+   - Ejecuta el siguiente comando en la terminal para compilar el analizador Lex:
 
      ```bash
      flex prueba.flex
